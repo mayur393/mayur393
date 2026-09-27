@@ -4,6 +4,8 @@
 
 **Computer engineer building AI-powered products — from voice-clone detection to precision agriculture.**
 
+🤖 All my projects are vibe coded, built with AI coding assistants.
+
 </div>
 
 ---
