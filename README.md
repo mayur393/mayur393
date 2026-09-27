@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:FE428E&height=200&section=header&text=Mayur%20Pawar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20AI%20Product%20Builder&descAlignY=58&descSize=18" alt="Mayur Pawar" width="100%" />
 
 <a href="https://github.com/mayur393">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Voice-clone+detection+for+SIH+2026;Precision+agriculture+with+GenAI;Marathi-first+apps+for+villages" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Voice-clone+detection+for+SIH+2026;Precision+agriculture+with+GenAI" alt="Typing intro" />
 </a>
 
 <p>
@@ -17,7 +17,6 @@
 
 - 🛡️ Building **VoxShield** with **Team Innovexa** for **Smart India Hackathon 2026**: offline detection of AI voice-cloning scam calls
 - 🌾 Applying generative AI to farming with **YieldIQ**
-- 🏡 Making village services accessible in Marathi with **GaavConnect**
 - 🧠 Learning the fundamentals of ML and LLMs, from single neurons to inference
 - 🤖 All my projects are **vibe coded**, built with AI coding assistants
 
@@ -60,7 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2">
       <h3>🌾 <a href="https://github.com/mayur393/Yieldiq">YieldIQ</a></h3>
       <p>AI-powered precision agriculture platform: crop strategies, harvest forecasts and multilingual (Hindi / Marathi / English) farm advice.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -68,15 +67,6 @@
       <img src="https://img.shields.io/badge/Gemini_+_Genkit-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini + Genkit" />
       <br/><br/>
       🌐 <a href="https://yieldiq-nine.vercel.app">yieldiq-nine.vercel.app</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏡 <a href="https://github.com/mayur393/GaavConnect">GaavConnect</a></h3>
-      <p>Marathi-first app for village services, with phone-OTP and Google sign-in backed by JWT sessions.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <br/><br/>
-      📂 <a href="https://github.com/mayur393/GaavConnect">view repo</a>
     </td>
   </tr>
 </table>
