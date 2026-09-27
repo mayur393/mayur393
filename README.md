@@ -30,11 +30,11 @@
 
 **Frameworks & AI**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,androidstudio,pytorch,tailwind,vite" alt="Frameworks and AI" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,androidstudio,pytorch,tailwind" alt="Frameworks and AI" />
 
 **Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,git,linux,vercel" alt="Data and tools" />
+<img src="https://skillicons.dev/icons?i=supabase,git,linux,vercel" alt="Data and tools" />
 
 </div>
 
